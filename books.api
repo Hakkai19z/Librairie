@@ -1,0 +1,675 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 156,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "zgs-AQAAMAAJ",
+            "etag": "pOAQ6G01a/Q",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/zgs-AQAAMAAJ",
+            "volumeInfo": {
+                "title": "Dictionnaire universel d'histoire et de géographie",
+                "subtitle": "contenant",
+                "authors": [
+                    "Marie Nicolas Bouillet"
+                ],
+                "publishedDate": "1867",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "SRLF:A0001083484"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 1052,
+                "printType": "BOOK",
+                "categories": [
+                    "Geography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.5.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=zgs-AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=zgs-AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=zgs-AQAAMAAJ&printsec=frontcover&dq=subject:geography&hl=&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=zgs-AQAAMAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zgs-AQAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=zgs-AQAAMAAJ&rdid=book-zgs-AQAAMAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_universel_d_histoire_et_de.epub?id=zgs-AQAAMAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=zgs-AQAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "4voaAQAAMAAJ",
+            "etag": "obAC5K1wHdw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/4voaAQAAMAAJ",
+            "volumeInfo": {
+                "title": "Dictionnaire universel d'histoire et de géographie",
+                "authors": [
+                    "Marie Nicolas Bouillet",
+                    "Alexis Chassang"
+                ],
+                "publishedDate": "1871",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "NWU:35556000693812"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 2070,
+                "printType": "BOOK",
+                "categories": [
+                    "Geography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.5.7.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=4voaAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=4voaAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=4voaAQAAMAAJ&printsec=frontcover&dq=subject:geography&hl=&cd=2&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=4voaAQAAMAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4voaAQAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=4voaAQAAMAAJ&rdid=book-4voaAQAAMAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_universel_d_histoire_et_de.epub?id=4voaAQAAMAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=4voaAQAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "EVI3TWKQ0EgC",
+            "etag": "NCDEFtbgYm4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/EVI3TWKQ0EgC",
+            "volumeInfo": {
+                "title": "Dictionnaire universel d'histoire et de géographie",
+                "authors": [
+                    "Marie-Nicolas Bouillet"
+                ],
+                "publishedDate": "1851",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "EHC:148100100714R"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 2040,
+                "printType": "BOOK",
+                "categories": [
+                    "Geography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=EVI3TWKQ0EgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=EVI3TWKQ0EgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=EVI3TWKQ0EgC&printsec=frontcover&dq=subject:geography&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=EVI3TWKQ0EgC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EVI3TWKQ0EgC"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=EVI3TWKQ0EgC&rdid=book-EVI3TWKQ0EgC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_universel_d_histoire_et_de.epub?id=EVI3TWKQ0EgC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=EVI3TWKQ0EgC&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "cr7UFSb1c5AC",
+            "etag": "8zND5EsGVuc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/cr7UFSb1c5AC",
+            "volumeInfo": {
+                "title": "Dictionnaire universel d'histoire et de géographie",
+                "subtitle": "contenant 1 ̊l'histoire proprement dite ... 2 ̊la biographie universelle ... 3 ̊la mythologie ... 4 ̊la géographie ancienne et moderne ...",
+                "authors": [
+                    "Marie Nicolas Bouillet"
+                ],
+                "publishedDate": "1854",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "ONB:+Z229316500"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 2048,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.5.3.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=cr7UFSb1c5AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=cr7UFSb1c5AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=cr7UFSb1c5AC&printsec=frontcover&dq=subject:geography&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=cr7UFSb1c5AC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cr7UFSb1c5AC"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=cr7UFSb1c5AC&rdid=book-cr7UFSb1c5AC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_universel_d_histoire_et_de.epub?id=cr7UFSb1c5AC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=cr7UFSb1c5AC&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "UMs-AAAAcAAJ",
+            "etag": "AotH1BrnO+0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/UMs-AAAAcAAJ",
+            "volumeInfo": {
+                "title": "Dictionnaire universel d'histoire et de Géographie contenant 1. L'histoire proprement dite... 2. La biographie universelle... 3. La mythologie... 4. La géographie ancienne et moderne...",
+                "subtitle": "Par M. N. Bouillet",
+                "authors": [
+                    "Marie Nicolas Bouillet"
+                ],
+                "publishedDate": "1857",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "BSB:BSB10034665"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 2128,
+                "printType": "BOOK",
+                "categories": [
+                    "Geography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.7.10.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=UMs-AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=UMs-AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=UMs-AAAAcAAJ&printsec=frontcover&dq=subject:geography&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=UMs-AAAAcAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UMs-AAAAcAAJ"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=UMs-AAAAcAAJ&rdid=book-UMs-AAAAcAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_universel_d_histoire_et_de.epub?id=UMs-AAAAcAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=UMs-AAAAcAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "pepLAAAAcAAJ",
+            "etag": "dfvxWxKOuwo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pepLAAAAcAAJ",
+            "volumeInfo": {
+                "title": "Polyhistor",
+                "authors": [
+                    "Caius Julius Solinus"
+                ],
+                "publishedDate": "1847",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "GENT:900000157273"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 410,
+                "printType": "BOOK",
+                "categories": [
+                    "Geography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.8.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=pepLAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=pepLAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=pepLAAAAcAAJ&printsec=frontcover&dq=subject:geography&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=pepLAAAAcAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pepLAAAAcAAJ"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=pepLAAAAcAAJ&rdid=book-pepLAAAAcAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Polyhistor.epub?id=pepLAAAAcAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "downloadLink": "http://books.google.fr/books/download/Polyhistor.pdf?id=pepLAAAAcAAJ&hl=&output=pdf&sig=ACfU3U197Bn8wy6-dvDPjjPKdpMQblp0dA&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pepLAAAAcAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "e2d6i0yL3j0C",
+            "etag": "vBDclHu6dfk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/e2d6i0yL3j0C",
+            "volumeInfo": {
+                "title": "Dictionnaire geographique historique et litteraire de la Perse et des contrees adjacentes",
+                "authors": [
+                    "Charles Barbier de Meynard"
+                ],
+                "publishedDate": "1869",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "BDM:13020100000856"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 676,
+                "printType": "BOOK",
+                "categories": [
+                    "Geography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.9.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=e2d6i0yL3j0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=e2d6i0yL3j0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "ar",
+                "previewLink": "http://books.google.fr/books?id=e2d6i0yL3j0C&printsec=frontcover&dq=subject:geography&hl=&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=e2d6i0yL3j0C&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=e2d6i0yL3j0C"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=e2d6i0yL3j0C&rdid=book-e2d6i0yL3j0C&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_geographique_historique_et.epub?id=e2d6i0yL3j0C&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_geographique_historique_et.pdf?id=e2d6i0yL3j0C&hl=&output=pdf&sig=ACfU3U0zndRUNsbtYCUcjKr05ceJljxTfg&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=e2d6i0yL3j0C&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "2FMhoOpn6LAC",
+            "etag": "hMGIkyV1ssQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/2FMhoOpn6LAC",
+            "volumeInfo": {
+                "title": "Nouvelle géographie universelle",
+                "subtitle": "la terre et les hommes",
+                "authors": [
+                    "Élisée Reclus"
+                ],
+                "publishedDate": "1890",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "BML:37001103442203"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 754,
+                "printType": "BOOK",
+                "categories": [
+                    "Geography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.5.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=2FMhoOpn6LAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=2FMhoOpn6LAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=2FMhoOpn6LAC&printsec=frontcover&dq=subject:geography&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=2FMhoOpn6LAC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2FMhoOpn6LAC"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=2FMhoOpn6LAC&rdid=book-2FMhoOpn6LAC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Nouvelle_g%C3%A9ographie_universelle.epub?id=2FMhoOpn6LAC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "downloadLink": "http://books.google.fr/books/download/Nouvelle_g%C3%A9ographie_universelle.pdf?id=2FMhoOpn6LAC&hl=&output=pdf&sig=ACfU3U1wwjqSNo1t5Z0n7IJ01_HPCXIyTA&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=2FMhoOpn6LAC&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ebw-AAAAcAAJ",
+            "etag": "cI+VnaK2V+s",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ebw-AAAAcAAJ",
+            "volumeInfo": {
+                "title": "Dictionnaire historique et critique",
+                "authors": [
+                    "Pierre Bayle",
+                    "Pierre Desmaizeaux"
+                ],
+                "publishedDate": "1738",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "BCUL:1094800117"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 850,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.11.11.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ebw-AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ebw-AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=ebw-AAAAcAAJ&printsec=frontcover&dq=subject:geography&hl=&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ebw-AAAAcAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ebw-AAAAcAAJ"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=ebw-AAAAcAAJ&rdid=book-ebw-AAAAcAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_historique_et_critique.epub?id=ebw-AAAAcAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "downloadLink": "http://books.google.fr/books/download/Dictionnaire_historique_et_critique.pdf?id=ebw-AAAAcAAJ&hl=&output=pdf&sig=ACfU3U0CipoHrwtCl7ix0cLPN6y97KdQsQ&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ebw-AAAAcAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "8vUYAQAAMAAJ",
+            "etag": "+0w5HHsbKDQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/8vUYAQAAMAAJ",
+            "volumeInfo": {
+                "title": "Géographie",
+                "authors": [
+                    "Strabo"
+                ],
+                "publisher": "Belles Lettres",
+                "publishedDate": "1966",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PSU:000058910269"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 492,
+                "printType": "BOOK",
+                "categories": [
+                    "Bilingual books"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "4.8.8.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=8vUYAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=8vUYAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "fr",
+                "previewLink": "http://books.google.fr/books?id=8vUYAQAAMAAJ&dq=subject:geography&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.fr/books?id=8vUYAQAAMAAJ&dq=subject:geography&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/G%C3%A9ographie.html?hl=&id=8vUYAQAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "FR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "FR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=8vUYAQAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}
