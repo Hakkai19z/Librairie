@@ -4,7 +4,7 @@ include 'config.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     extract($_POST);
-    $password_hash = md5($mot_de_passe);
+    $password_hash = password_hash($mot_de_passe, PASSWORD_DEFAULT);
     $sql = "INSERT INTO utilisateurs (nom, prenom, email, mot_de_passe) VALUES (?, ?, ?, ?)";
     $stmt = $pdo->prepare($sql);
     $stmt->execute([$nom, $prenom, $email, $password_hash]);

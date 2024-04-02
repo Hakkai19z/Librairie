@@ -31,6 +31,7 @@ h1 {
   transform: translate(-50%, -50%);
   font-size: 5em;
   color: #fff;
+  cursor: pointer;
 }
 
 h2 {

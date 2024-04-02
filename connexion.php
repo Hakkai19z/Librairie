@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 
     // Verify the submitted password against the hashed password from the database
-    if ($utilisateur && password_verify($password, $utilisateur->mot_de_passe)) {
+    if ($utilisateur && password_verify($password, $utilisateur["mot_de_passe"])) {
         $_SESSION['utilisateur'] = $utilisateur;
         echo '<script>alert("Connexion réussie!");</script>';
         header('refresh:1;url=footer.php');
